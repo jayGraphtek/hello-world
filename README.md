@@ -1,2 +1,2 @@
 # hello-world
-Repository for Git training
+I like learning new techniques so I'm not clueless when I talk to smarter people.
